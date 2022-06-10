@@ -1,0 +1,24 @@
+.navigation { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+nav > h1{ 
+    font-family: 'Arial Black', Gadget, sans-serif;
+    font-size: 58px; 
+}
+
+nav > img{ 
+    width: 58px;
+    padding: 5px;
+}
+
+nav > div{ 
+    
+}
+
+nav > div > img{  
+    width: 58px;
+    padding: 5px;
+}
